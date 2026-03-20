@@ -1,0 +1,106 @@
+# Content Memory — Đông Y Bác Sĩ Gia Đình
+# Cập nhật sau MỖI bài viết
+
+---
+published_content:
+  - id: DY-001
+    title: "Đông Y tại nhà — Không phải uống thuốc đắng mới khỏe"
+    pillar: P6
+    platforms: [facebook, zalo_oa, threads]
+    date: null # chưa xuất bản
+    performance:
+      facebook: { reach: 0, engagement: 0, saves: 0 }
+      zalo_oa: { views: 0, clicks: 0 }
+      threads: { likes: 0, replies: 0 }
+    quality_scores:
+      anti_ai: "1/15 (7%)"
+      natural: "88/100"
+      fact_check: PASS
+      compliance: PASS
+    linked_topics: [am-duong, kinh-lac, gung, mat-ong]
+    pillar_tags: [P6]
+
+---
+# Content Calendar Status
+calendar:
+  week_01:
+    - DY-001: drafted # P6
+    - DY-002: pending # P1
+    - DY-003: pending # P2
+  week_02:
+    - DY-004: pending # P3
+    - DY-005: pending # P5
+    - DY-006: pending # P1
+  # ... (xem chi tiết trong calendar/12-week-calendar.md)
+
+---
+# Topic Coverage Tracker
+topic_coverage:
+  benh_pho_bien:
+    mat_ngu: { articles: 0, last_date: null }
+    dau_vai_gay: { articles: 0, last_date: null }
+    dau_lung: { articles: 0, last_date: null }
+    nong_trong: { articles: 0, last_date: null }
+    viem_hong_ho: { articles: 0, last_date: null }
+    day_bung: { articles: 0, last_date: null }
+    stress: { articles: 0, last_date: null }
+    dau_dau: { articles: 0, last_date: null }
+    tao_bon: { articles: 0, last_date: null }
+    da_day: { articles: 0, last_date: null }
+    met_moi: { articles: 0, last_date: null }
+    da_kho: { articles: 0, last_date: null }
+    chuot_rut: { articles: 0, last_date: null }
+    huyet_ap: { articles: 0, last_date: null }
+    dau_khop: { articles: 0, last_date: null }
+    nghet_mui: { articles: 0, last_date: null }
+    mo_mau: { articles: 0, last_date: null }
+    suy_nhuoc: { articles: 0, last_date: null }
+    dau_bung_kinh: { articles: 0, last_date: null }
+    tay_chan_lanh: { articles: 0, last_date: null }
+
+  kien_thuc_nen:
+    am_duong: { articles: 1, last_date: null } # DY-001
+    ngu_hanh: { articles: 0, last_date: null }
+    kinh_lac: { articles: 0, last_date: null }
+    thao_duoc_co_ban: { articles: 0, last_date: null }
+    tu_chan_doan: { articles: 0, last_date: null }
+
+---
+# Herbs & Acupoints Introduced
+herbs_introduced:
+  - name: Gừng
+    first_article: DY-001
+    frequency: 1
+  - name: Mật ong
+    first_article: DY-001
+    frequency: 1
+
+acupoints_taught:
+  - name: Túc tam lý
+    first_article: DY-001
+    frequency: 1
+    # Chưa có bài dạy chi tiết
+
+---
+# Pillar Distribution (mục tiêu cân bằng)
+pillar_distribution:
+  P1_thoi_quen_benh: 0   # target: 25%
+  P2_huyet_vi: 0          # target: 15%
+  P3_thao_duoc: 0         # target: 15%
+  P4_mon_an: 0            # target: 10%
+  P5_duong_sinh: 0        # target: 10%
+  P6_kien_thuc: 1         # target: 10%
+  P7_qa: 0                # target: 10%
+  P8_case_study: 0        # target: 5%
+  total_articles: 1
+
+---
+# Engagement Metrics Summary
+metrics_summary:
+  total_reach: 0
+  total_engagement: 0
+  avg_saves_per_post: 0
+  best_pillar: null
+  best_platform: null
+  best_time_slot: null
+  worst_performing: null

@@ -1,0 +1,101 @@
+# Second Brain — Đông Y Content Pipeline
+# Ghi nhận insights, patterns, lessons learned
+# Cập nhật cuối mỗi tuần
+
+---
+# Learning Log — Bài học rút ra
+learning_log:
+  - date: null
+    source: "DY-001 (P6 — Kiến thức nền)"
+    insight: "Bài kiến thức nền cần nhiều ví dụ đời thường để không bị 'sách giáo khoa'"
+    action: "Luôn mở bài bằng tình huống quen thuộc trước khi giải thích lý thuyết"
+    category: content_strategy
+
+---
+# Style Evolution — Phong cách viết tiến hóa
+style_evolution:
+  version: "v1.0"
+  changes:
+    - date: null
+      from: "Giải thích lý thuyết Đông Y trước"
+      to: "Mở bài bằng nỗi đau thực → giải thích sau"
+      reason: "Engagement cao hơn khi hook bằng empathy"
+      impact: null
+
+---
+# Performance Patterns — Xu hướng hiệu suất
+performance_patterns:
+  best_pillars: []
+  worst_pillars: []
+  best_time_slots: []
+  worst_time_slots: []
+  best_formats:
+    facebook: null  # carousel? text? video?
+    tiktok: null
+    zalo: null
+  engagement_drivers:
+    - "Chưa có dữ liệu — cập nhật sau tuần 2"
+
+---
+# Audience Feedback — Phản hồi khán giả
+audience_feedback:
+  common_questions:
+    - "Chưa có — ghi nhận từ comment sau khi publish"
+  concerns:
+    - "Chưa có"
+  requests:
+    - "Chưa có"
+  testimonials:
+    - "Chưa có"
+
+---
+# Competitor Insights — Phân tích đối thủ
+competitor_insights:
+  accounts_tracked: []
+  strengths_observed: []
+  gaps_found: []
+  opportunities: []
+
+---
+# Knowledge Gaps — Lỗ hổng kiến thức
+knowledge_gaps:
+  need_research:
+    - "Tương tác thuốc Đông Y + Tây Y — cần nguồn BV Bạch Mai/Vinmec"
+    - "Bài tập Dưỡng sinh chi tiết — cần video reference"
+    - "Đồng hồ sinh học 12 kinh — cần cross-reference"
+  need_expert_review:
+    - "Liều lượng thảo dược an toàn cho trẻ em"
+    - "Huyệt vị cấm bấm cho thai phụ"
+
+---
+# Content Ideas Backlog — Ý tưởng chưa triển khai
+content_ideas_backlog:
+  high_priority:
+    - "Series: 7 ngày thải độc cơ thể bằng Đông Y"
+    - "Infographic: Bản đồ huyệt vị cơ bản"
+    - "Video: 5 phút dưỡng sinh buổi sáng"
+  medium_priority:
+    - "So sánh: G medicineung vs Nghệ — khi nào dùng cái nào?"
+    - "Quiz: Bạn thuộc thể trạng Âm hư hay Dương hư?"
+    - "Series mùa: Dưỡng sinh theo 4 mùa"
+  low_priority:
+    - "History: 10 vị thuốc Đông Y nổi tiếng nhất lịch sử VN"
+    - "Collab: Phỏng vấn lương y thực thụ"
+
+---
+# Milestones — Cột mốc
+milestones:
+  - name: "First 10 articles published"
+    target_date: null
+    status: in_progress
+    articles_done: 1
+  - name: "1000 followers across platforms"
+    target_date: null
+    status: not_started
+  - name: "First viral post (>10k reach)"
+    target_date: null
+    status: not_started
+  - name: "Complete 12-week calendar"
+    target_date: null
+    status: in_progress
+    weeks_done: 0
